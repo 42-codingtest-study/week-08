@@ -20,7 +20,6 @@ public class BOJ2078 {
                 A -= B;
                 left++;
             }
-        }
-        System.out.println(left + " " + right);
+        }        System.out.println(left + " " + right);
     }
 }
