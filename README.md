@@ -16,7 +16,7 @@
 
 -   [x] [무한이진트리](https://www.acmicpc.net/problem/2078)
 -   [x] [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
--   [ ] [노드사이의 거리](https://www.acmicpc.net/problem/1240)
+-   [x] [노드사이의 거리](https://www.acmicpc.net/problem/1240)
 -   [ ] [트리나라 관광 가이드](https://www.acmicpc.net/problem/15805)
 -   [ ] [트리 순회](https://www.acmicpc.net/problem/22856)
 
