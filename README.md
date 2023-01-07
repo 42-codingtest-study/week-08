@@ -6,6 +6,7 @@
 
 - [자바로 백준 입력 받는 법](https://ejaee.github.io/Java-BOJ-input/)
 - [자바 DFS 구현]()
+- [자바 Tree 구현]()
 
 ## 🧑🏻‍💻 주제
 
@@ -18,7 +19,7 @@
 -   [x] [트리의 부모 찾기](https://www.acmicpc.net/problem/11725)
 -   [x] [노드사이의 거리](https://www.acmicpc.net/problem/1240)
 -   [x] [트리나라 관광 가이드](https://www.acmicpc.net/problem/15805)
--   [ ] [트리 순회](https://www.acmicpc.net/problem/22856)
+-   [x] [트리 순회](https://www.acmicpc.net/problem/22856)
 
 ## 🧐 bonus part
 
