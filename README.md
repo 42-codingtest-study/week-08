@@ -27,3 +27,10 @@
 - [문제 원본](https://www.acmicpc.net/problem/22856)
 - [BOJ22856.java](BOJ22856.java)
 - [코드 설명](https://yback.oopy.io/1964a11f-a5e7-4bb6-ade7-7e42eb95726e)
+
+## BOJ 19542 <전단지 돌리기>
+
+- [문제 원본](https://www.acmicpc.net/problem/19542)
+- [BOJ19542.java](BOJ19542.java)
+- [코드 설명](https://yback.notion.site/BOJ-19542-f9b96e98621d423198aaf5993b145978)
+  - 코드 설명은 파이썬 버전이다.
