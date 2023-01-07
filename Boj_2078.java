@@ -10,13 +10,14 @@ public class Boj_2078 {
         long y = 0;
         StringTokenizer st = new StringTokenizer(scanner.nextLine());
         a = Long.parseLong(st.nextToken());
-        b = Long.parseLong(st.nextToken());
+        b = Long.parseLong(st.nextToken());     //a,b
+
         while (!(a == 1 && b == 1)) {
             if (a < b) {
                 b -= a;
                 x++;
             } else {
-                a -=b;
+                a -= b;
                 y++;
             }
         }
