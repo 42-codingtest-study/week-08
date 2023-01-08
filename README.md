@@ -34,3 +34,9 @@
 - [BOJ19542.java](BOJ19542.java)
 - [코드 설명](https://yback.notion.site/BOJ-19542-f9b96e98621d423198aaf5993b145978)
   - 코드 설명은 파이썬 버전이다.
+
+## BOJ 2250 <트리의 높이와 너비>
+
+- [문제 원본](https://www.acmicpc.net/problem/2250)
+- [BOJ2250.java](BOJ2250.java)
+- [코드 설명](https://yback.oopy.io/ed5f2602-7f13-4dc1-a39b-511fb3db5bc7)
