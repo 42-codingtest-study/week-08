@@ -1,5 +1,5 @@
 import java.util.*;
-
+ 
 public class Boj_1240 {
 
     public static void main(String[] args) {
