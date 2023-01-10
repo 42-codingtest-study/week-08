@@ -26,4 +26,4 @@
 한번 도전해볼만 한 문제 -> 저번 주에 했던거 복습 + 심화
 
 -   [ ] [전단지 돌리기](https://www.acmicpc.net/problem/19542)
--   [ ] [트리의 높이와 너비](https://www.acmicpc.net/problem/2250)
+-   [x] [트리의 높이와 너비](https://www.acmicpc.net/problem/2250)
